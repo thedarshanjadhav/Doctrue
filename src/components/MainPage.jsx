@@ -32,8 +32,9 @@ export default function MainPage(){
                     Start your free trial today!
                     </button>
 
-                    <button className="px-8 py-3.5 text-blue-500 border border-blue-500 rounded-full hover:bg-blue-500 hover:text-white transition duration-300 font-bold flex items-center justify-center gap-1">
-                    <img src={PlayImg} alt="play logo" /> Watch Video
+                    <button className="px-8 py-3.5  border border-blue-500 rounded-full bg-clip-text text-transparent bg-gradient-to-r from-[#103ABE] to-[#2ECBF1] font-bold flex items-center justify-center gap-2">
+                    <img src={PlayImg} alt="play logo" /> 
+                    Watch Video
                     </button>
                    
                 </div>
