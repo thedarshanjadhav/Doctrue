@@ -43,7 +43,7 @@ export default function MainPage(){
 
             {/* right side */}
             <div>
-                <img src={DoctorImage} alt="" />
+                <img src={DoctorImage} alt="Doctor Image" />
             </div>
         </div>
     )
